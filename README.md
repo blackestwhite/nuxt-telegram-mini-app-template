@@ -1,6 +1,10 @@
 # Nuxt Minimal Starter
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Essential Documentation
+
+- [vue-tg Documentation](https://github.com/deptyped/vue-telegram) - Vue.js wrapper for Telegram Mini Apps
+- [Telegram Mini Apps Documentation](https://core.telegram.org/bots/webapps) - Official Telegram Mini Apps development guide
+- [Nuxt Documentation](https://nuxt.com/docs/getting-started/introduction) - Learn more about Nuxt.js
 
 ## Setup
 
